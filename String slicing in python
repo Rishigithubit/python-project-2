@@ -1,0 +1,3 @@
+s="rishitha sai"
+Print(s[:])
+Print(s[::-1])
